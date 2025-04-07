@@ -90,7 +90,7 @@ pnpm run dev    # 本地开发
 pnpm run deploy # 部署到 Cloudflare
 ```
 
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/TinsFox/github-hosts)
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/hestiacn/hosts)
 
 ## 鸣谢
 
